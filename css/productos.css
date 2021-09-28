@@ -17,7 +17,7 @@ body {
 }
 
 .productos-container {
-    height: 59.75em;
+    height: 81.75em;
     width: 82em;
     margin: 2em auto;
     border-radius: 10px;
@@ -32,12 +32,12 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding-top: 19.5rem;
+    padding-top: 30.5rem;
     background-color: var(--login-bg);
 }
 
 .btn {
-    width: 80%;
+    width: 31%;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: white;

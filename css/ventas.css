@@ -17,7 +17,7 @@ body {
 }
 
 .productos-container {
-    height: 59.75em;
+    height: 55.75em;
     width: 82em;
     margin: 2em auto;
     border-radius: 10px;
@@ -37,15 +37,15 @@ body {
 }
 
 .btn {
-    width: 80%;
-    letter-spacing: 2px;
+    width: 68%;
+    letter-spacing: 0px;
     text-transform: uppercase;
     color: white;
     border: none;
     border-radius: 38% 62% 53% 47% / 0% 100% 0% 100%;
     background-color: var(--buton-produc);
     cursor: pointer;
-    margin: 1em auto;
+    margin:   5px;
 }
 
 .image-producto-adicionar {
@@ -110,4 +110,12 @@ tr, th, td{
     border-radius: 20px;
     border-bottom: black 1px solid;
     margin: 2%;
+}
+#åboton123{
+    display: inline-block;
+}
+.linea
+{
+    display: inline-block;
+
 }
